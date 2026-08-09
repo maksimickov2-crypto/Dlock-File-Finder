@@ -1,5 +1,8 @@
 # 🔍 Dlock File Finder
 
+![Project Demo](demo.gif)
+
+
 ### Find & remove duplicate files by content hash — not by name.
 
 *Open-source • Python • Zero dependencies • Color-coded terminal UI*
